@@ -10,7 +10,7 @@
 # Plugin Commands
 - /gui create <name>
 - /gui <name>
-- / gui delete <name>
+- /gui delete <name>
 
 # Planned/Features
 - [✓] Friendly Messages
@@ -18,6 +18,7 @@
 - [✓] Can Be Create In Game
 - [✓] Per Command Permission
 
+# Ending...
 - This All About The Plugin!
 - Make Sure To Join My MCPE Server !
 - IP : play.hyperarena.cf
