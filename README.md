@@ -1,16 +1,16 @@
 # CustomGUIPlus
-A Plugin Made For Creating Custom GUI In Game No Need Of Console Or Panel !
-Scroll Down For More Information About Plugin !
+- A Plugin Made For Creating Custom GUI In Game No Need Of Console Or Panel !
+- Scroll Down For More Information About Plugin !
 
 # Plugin Deatils
-Plugin Name : CustomGUIPlus
-Author : Sub2GamingAqua/HyperArenaMC
-Api : 3.0.0
+- Plugin Name : CustomGUIPlus
+- Author : Sub2GamingAqua/HyperArenaMC
+- Api : 3.0.0
 
 # Plugin Commands
-/gui create <name>
-/gui <name>
-/gui delete <name>
+- /gui create <name>
+- /gui <name>
+- / gui delete <name>
 
 # Planned/Features
 - [✓] Friendly Messages
@@ -18,10 +18,10 @@ Api : 3.0.0
 - [✓] Can Be Create In Game
 - [✓] Per Command Permission
 
-This All About The Plugin!
-Make Sure To Join My MCPE Server !
-IP : play.hyperarena.cf
-PORT : 26580
-Supported Version : 1.17.0
+- This All About The Plugin!
+- Make Sure To Join My MCPE Server !
+- IP : play.hyperarena.cf
+- PORT : 26580
+- Supported Version : 1.17.0
 
-Thanks !
+- Thanks !
